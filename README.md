@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Foto com Presidente
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foto com Presidente Luiz Inácio Lula da Silva
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Anexei uma foto minha e fiz um prompt pedindo para o gemini gerar uma foto minha com o Presidente Lula
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<img width="768" height="1024" alt="projetoDio" src="https://github.com/user-attachments/assets/5701aca5-649d-4d9c-aa0c-8a5444966402" />
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+De primeira não ficou muito legal mas depois de outro prompt pedindo pra ajustar ficou melhor!
 ```
 
 ### Exemplos e Insigths
